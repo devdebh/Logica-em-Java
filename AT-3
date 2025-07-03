@@ -13,6 +13,6 @@ public class Main {
 
         System.out.println("O funcionário(a) " + nomeFuncionario +
                 "recebeu no mês de " + mes +
-                "o salário igual a " + salario);
+                " o salário igual a " + salario);
     }
 }
