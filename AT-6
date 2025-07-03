@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main (String [] args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Digite um número inteiro: ");
+        int numero = scanner.nextInt();
+        scanner.nextLine();
+
+        System.out.println("O sucessor de " + numero + " é igual a " + (numero + 1 ) + " e seu antecessor é igual a " + (numero - 1));
+    }
+        }
