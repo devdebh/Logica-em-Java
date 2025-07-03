@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class Main {
+    public static void main(String[]args) {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Nome do funcionário: ");
+        String nomeFuncionario = scanner.nextLine();
+        System.out.println("Em qual mês estamos?");
+        String mes = scanner.nextLine();
+        System.out.print("Qual foi seu salário este mês?");
+        double salario = scanner.nextDouble();
+        scanner.nextLine();
+
+        System.out.println("O funcionário(a) " + nomeFuncionario +
+                "recebeu no mês de " + mes +
+                "o salário igual a " + salario);
+    }
+}
