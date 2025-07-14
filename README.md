@@ -72,7 +72,7 @@ Meu objetivo com este repositório é mostrar que estou construindo uma **base t
 
 ## ✅ Status do Projeto
 
-- ✔️ Exercícios concluídos com sucesso
+- ✔️ Em desenvolvimento
 - 🔁 Utilizado como referência e prática contínua
 - 🧱 Estrutura organizada para novos estudos
 
